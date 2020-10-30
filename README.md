@@ -17,3 +17,8 @@ Algoritmos De Processamento Digital de Imagens
 - Filtro rejeita-faixa Butterworth
 - Filtro passa baixa e passa alta ideal
 - Filtro passa baixa e passa alta Gaussiano
+
+## Lista 4 
+- Order Statistic Filters
+- Floyd–Steinberg dithering
+- Stucki Dithering
